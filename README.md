@@ -48,10 +48,6 @@ mini-crm/
 └── frontend/ # Website code
 └── index.html
 
-text
-
----
-
 ## 🚀 How to Run
 
 ### Step 1: Install Required Software
